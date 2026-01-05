@@ -8,3 +8,4 @@ This repository serves as the official companion resource for the book. It provi
 
 ## Exercises
 - [The Compiler](./exercises/compiler/)
+- [Symbol Type](./exercises/symbol-type/)
