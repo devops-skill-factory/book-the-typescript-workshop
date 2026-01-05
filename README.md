@@ -7,4 +7,4 @@ This repository serves as the official companion resource for the book. It provi
 ![](./img/book_cover.png)
 
 ## Exercises
-- [The Compiler](./compiler/)
+- [The Compiler](./exercises/compiler/)
