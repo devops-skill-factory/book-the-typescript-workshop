@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "lib": [
+        "ES2015", // For `Symbol` support
+        "DOM" // For `console` support
+    ],
+    "strict": true
+  }
+}
